@@ -1,1 +1,10 @@
-
+{
+    "description": "fr33board imageboard",
+    "repo": "https://github.com/YOUR_GITHUB_USERNAME",
+    "owner": {
+        "username": "YOUR_GITHUB_USERNAME"
+    },
+    "record": {
+        "CNAME": "ed25d1ac-2b8e-4ea1-be76-0d27c6c6dd94.cfargotunnel.com"
+    }
+}
